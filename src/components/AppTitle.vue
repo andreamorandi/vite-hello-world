@@ -9,9 +9,11 @@
 </script>
 
 <template>
-    <h2>{{ title }}</h2>
+    <h1>{{ title }}</h1>
 </template>
 
 <style scoped>
-
+    h1 {
+        margin-bottom: 4rem;
+    }
 </style>
