@@ -2,7 +2,8 @@
     export default {
         data() {
             return {
-                jumboImg: 'nature.webp'
+                name: "AppHero",
+                jumboImg: "nature.webp"
             }
         },
         methods: {
